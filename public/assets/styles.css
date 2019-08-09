@@ -1,0 +1,14 @@
+body {
+    padding: 30px;
+    background: skyblue;
+}
+
+form {
+    padding-left: 30em;
+    margin-bottom: 2em;
+}
+
+li {
+    border: green 0.1em solid;
+    margin-bottom: 1em;
+}
